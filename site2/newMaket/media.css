@@ -1,0 +1,221 @@
+@media screen and (max-width: 1026px) {
+   
+    .top-menu  {
+        max-width: 550px;
+    }
+    .top-menu ul {
+        max-width: 550px;
+        margin-right: 5px;
+    }
+    .top-menu li {
+        margin-right: 5px;
+    }
+    .link-logo {
+        margin-right: 10px;
+    }
+    .card-icon {
+        margin-right: 5px;
+    }
+    .project-example {
+        justify-content: space-around !important;
+    }
+    .mobile {
+        height: 100%;
+    }
+    .mobile-bg {
+        background: url('img/handphone.png') no-repeat 20% bottom;
+        background-size: 25%;
+              
+    }
+    .mobile-features {
+        padding-left: 120px;
+    } 
+    .programm {
+        padding: 60px 0;
+      }
+    .programm-block {
+        width: 300px;
+    }
+    .programm-description {
+        padding: 15px;
+    }
+    .top-footer {
+        padding: 15px 0;
+    }
+    .top-footer-img {
+        margin: 15px;
+    }
+    .footer-widget img {
+        width: 115px;
+    }
+}
+@media screen and (max-width: 770px) {
+    .top-button {
+        display: block;
+    }
+    .top-menu, .top-box {
+    display: none !important;
+    }
+    .carousel-component {
+        bottom: 10% !important;
+    }
+    .top-heading {
+        font-size: 42px;
+    }
+    .second-heading {
+        font-size: 32px;
+    }
+   
+    .btn-link {
+    margin-top: 40px;    
+    }
+
+    .features {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .features-iteam {
+        width: 100%;
+    }
+    .mobile {
+        height: 100%;
+      }
+    .realization-text {
+        width: 100%;
+    }
+    .programm-section {
+        flex-direction: column;
+        justify-content: center;
+    } 
+    .programm-block {
+        width: 100%;
+    }
+    .programm-img {
+        width: 100%;
+        height: auto;
+    }
+    .tablet-bg {
+        display: block;
+        width: 70%;
+        margin-top: 10px;
+    }
+    .mobile-bg {
+        background-image:none;
+        flex-direction: column;
+    }
+    .mobile-features {
+        width: 100%;
+        padding-left: 0;
+    }
+    .numbers-tablet {
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .img-none {
+        display: none;
+    }
+    
+    .footer-column {
+        flex-direction: column;
+    }
+    .footer-block {
+        width: 100%;
+    }
+    .footer-widget {
+        justify-content: start !important;
+    }
+    .footer-widget img {
+        margin-right: 10px;
+    }
+
+}
+@media screen and (max-width: 450px) {
+    .top-header {
+        margin-top: 20px;
+      }
+    .link-logo-txt {
+    color: #fff;
+    font-size: 24px;
+    }
+    .carousel-component {
+        bottom: 5% !important;
+    }
+    .top-heading {
+        font-size: 40px;
+    }
+    .second-heading {
+        font-size: 28px;
+    }
+    .text {
+        font-size: 14px;
+        line-height: 20px
+    }
+    .btn-link {
+        font-size: 14px;
+    }
+    .top-arrow {
+        display: none;
+    }
+    .features-heading {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .features-icon {
+        margin-bottom: 15px;
+    }
+    .line-icon {
+        margin-bottom: 50px;
+    }
+    .header-second {
+        font-size: 26px;
+    }
+    .realization {
+        padding-top: 40px;
+    }
+    .purchase-phone {
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .purchase-heading {
+        font-size: 24px;
+        text-align:center;
+    }
+    .purchase-text {
+        text-align: center;
+    }
+    .projects {
+        padding: 40px 0;
+    }
+    .project-btn {
+        margin-top: 5px;
+    }
+    .project-filter {
+        margin: 20px 0;
+    }
+    .project-block {
+        margin-bottom: 15px;
+    }
+    .projects-btn {
+        margin-top: 15px;
+    }
+    .numbers-block {
+        margin:30px 0;
+    }
+    .programm {
+        padding: 40px 0;
+    }
+    .top-footer-img-phone {
+        justify-content: center !important;
+    }
+    .top-footer-img {
+    display: none;
+    }
+    .top-footer-img:first-child {
+        display: block;
+        }
+    .main-footer {
+        padding-top:40px ;
+    }
+}
