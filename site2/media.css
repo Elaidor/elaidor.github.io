@@ -221,6 +221,9 @@
 }
 
 @media screen and (max-height: 380px) {
+    .carousel-component {
+        bottom: 5% !important;
+    }
     .top-btn {
         margin-top: 0px;
         width: 150px;
