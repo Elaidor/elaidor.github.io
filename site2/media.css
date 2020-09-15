@@ -141,10 +141,10 @@
         bottom: 5% !important;
     }
     .top-heading {
-        font-size: 40px;
+        font-size: 36px;
     }
     .second-heading {
-        font-size: 28px;
+        font-size: 24px;
     }
     .text {
         font-size: 14px;
@@ -152,6 +152,7 @@
     }
     .btn-link {
         font-size: 14px;
+        margin-top: 10px;
     }
     .top-arrow {
         display: none;
