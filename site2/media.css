@@ -131,7 +131,7 @@
 }
 @media screen and (max-width: 450px) {
     .top-header {
-        margin-top: 20px;
+    padding-top: 20px;
       }
     .link-logo-txt {
     color: #fff;
