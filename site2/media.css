@@ -89,6 +89,10 @@
     } 
     .programm-block {
         width: 100%;
+        margin-bottom: 10px;
+    }
+    .programm-block:last-child {
+        margin-bottom: 0;
     }
     .programm-img {
         width: 100%;
@@ -138,7 +142,7 @@
     font-size: 24px;
     }
     .carousel-component {
-        bottom: 9% !important;
+        bottom: 10% !important;
     }
     .top-heading {
         font-size: 36px;
@@ -172,6 +176,9 @@
     }
     .realization {
         padding-top: 40px;
+    }
+    .video-heading {
+        width: 80%;
     }
     .purchase-phone {
         flex-direction: column;
