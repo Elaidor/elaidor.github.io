@@ -145,6 +145,9 @@
     .carousel-component {
         top: 19% !important;
     }
+    .top-slide img {
+        width: auto !important;
+    }
     .top-heading {
         font-size: 36px;
     }
