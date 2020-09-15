@@ -219,3 +219,23 @@
         padding-top:40px ;
     }
 }
+
+@media screen and (max-height: 380px) {
+    .top-btn {
+        margin-top: 0px;
+        width: 150px;
+        padding: 10px 0px;
+    }
+    .second-heading {
+        font-size: 20px;
+    }
+    .top-heading {
+        font-size: 32px;
+    }
+    .top-text {
+        font-size: 14px;
+    }
+    .btn-link {
+        margin-top: 0px;
+    }    
+}
