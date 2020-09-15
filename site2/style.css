@@ -203,13 +203,16 @@
   }
   
   .arrow {
-  opacity: 0.9;
+  opacity: 0.9 !important;
   fill:#ffffff;
   width: 60px;
   height: 60px;
   cursor: pointer;
   }
-  
+  .carousel-control-prev:hover .arrow {
+    opacity: 1 !important;
+    fill:#ffffff;
+  }
   .features-iteam {
   width: 266px;
   }
