@@ -209,9 +209,10 @@
   height: 60px;
   cursor: pointer;
   }
-  .carousel-control-prev:hover .arrow {
+  .carousel-control-prev:hover .arrow ,
+  .carousel-control-next:hover .arrow{
     opacity: 1 !important;
-    fill:#ffffff;
+    fill:#bfda9c;
   }
   .features-iteam {
   width: 266px;
